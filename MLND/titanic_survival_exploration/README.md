@@ -2,6 +2,10 @@
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
+### Review
+
+[My Project Review](https://review.udacity.com/#!/reviews/291939)
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
